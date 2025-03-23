@@ -1,5 +1,6 @@
 # 📚 Study Timetable for IT & AI Mastery
 
+## 🔥 High Priority (Must Read)
 | **Order** | **Book Name** | **Estimated Time** | **Link** |
 |----------|--------------|----------------|--------|
 | 1️⃣ | Introduction to Algorithms (CLRS) | 3-6 months | [Download](#) |
@@ -7,6 +8,10 @@
 | 3️⃣ | System Design Interview - An Insider's Guide | 2-3 months | [Download](#) |
 | 4️⃣ | Mastering Python Design Patterns | 1-2 months | [Download](#) |
 | 5️⃣ | Python Crash Course | 1-2 months | [Download](#) |
+
+## ⚡ Medium Priority (Recommended for Advanced Learning)
+| **Order** | **Book Name** | **Estimated Time** | **Link** |
+|----------|--------------|----------------|--------|
 | 6️⃣ | Django 5 By Example | 1-2 months | [Download](#) |
 | 7️⃣ | Hands-On Microservices with Django | 1-2 months | [Download](#) |
 | 8️⃣ | Python Microservice with FastAPI | 1-2 months | [Download](#) |
